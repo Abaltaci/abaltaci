@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aydin.
+### Full Stack Engineer | React, Node.js, & Agentic AI
 
-<!--
-**Abaltaci/abaltaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚧 **Note on Public Activity:**
+> Most of my recent work (2015–2025) is proprietary/NDA enterprise code developed for **Ernst & Young (EY)** and major financial/pharma clients. My public contribution graph does not reflect my daily coding velocity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠️ What I'm Building Now**
+* **Harvard Data Science Initiative (Capstone):** Developing a computer vision-powered haptic navigation system for accessibility using Python and Agentic design patterns. *(Code coming Jan 2026)*.
+* **Agentic AI Workflows:** Experimenting with "Vibe Coding" patterns to accelerate full-stack prototyping.
+
+### **🏛️ Professional Highlights (Private Repos)**
+* **EY.ai Contract Intelligence:** Architected the UI for a React/FastAPI app that processes complex legal data.
+* **Telecom Network Visualizer:** Built a GIS-heavy dashboard (React/Python/MongoDB) to visualize realistic network infrastructure for US/EU telecom giants.
+* **Guardian Life Insurance:** Customized Google Maps APIs for provider search functionality.
+
+### **📜 Digital Heritage**
+* **Visualizing the Durban Scale Paradox (1994):** Pioneered "Spot-Highlight" context globes.
+* **MicroCAM Butterfly Projection:** Early experimentation with interrupted map projections on Sun OS.
